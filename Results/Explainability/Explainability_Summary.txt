@@ -1,0 +1,23 @@
+EXPLAINABILITY SUMMARY
+============================================================
+
+Number of Features: 18
+Number of Targets: 5
+Observations Explained: 200
+
+Top 10 Overall Important Features:
+34. Production_Level_Low > 0.00 (Combined Score=1.0000)
+33. Production_Level_Low <= 0.00 (Combined Score=0.8940)
+1. 0.00 < Operating_Shift_Morning <= 1.00 (Combined Score=0.6729)
+29. Operating_Shift_Morning <= 0.00 (Combined Score=0.4243)
+30. Operating_Shift_Night <= 0.00 (Combined Score=0.2805)
+3. 0.00 < Production_Level_Medium <= 1.00 (Combined Score=0.2573)
+35. Production_Level_Medium <= 0.00 (Combined Score=0.2400)
+2. 0.00 < Operating_Shift_Night <= 1.00 (Combined Score=0.2356)
+25. Input_Lime_kg_m3 <= 2.94 (Combined Score=0.0705)
+32. Output_Biogas_m3_m3 > 393.12 (Combined Score=0.0658)
+
+Random Forest explainability completed successfully.
+SHAP provides global explanations.
+LIME provides local explanations.
+The combination improves model transparency.

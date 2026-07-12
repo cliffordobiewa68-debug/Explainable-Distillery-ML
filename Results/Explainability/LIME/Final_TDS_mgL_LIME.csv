@@ -1,0 +1,11 @@
+Feature,Weight
+Input_DAP_kg_m3 > 0.49,-2.704920302952744
+Season_Dry Season <= -0.59,1.4932960165263334
+Season_Short Rains <= -0.48,1.3333669621745146
+-0.63 < Input_Urea_kg_m3 <= 0.02,1.0085904695654215
+Season_Long Rains <= -0.63,-0.6488270951100386
+Operating_Shift_Morning <= -0.80,0.6009894269229229
+-1.02 < Production_Level_Medium <= 0.99,0.45070706502032976
+-1.25 < Quarter <= -0.31,-0.1823598394520969
+Production_Level_Low <= -0.55,-0.1738211161486543
+Raw_TSS_mgL > 0.73,-0.102447877074856

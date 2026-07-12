@@ -1,0 +1,11 @@
+Feature,Weight
+Season_Dry Season <= -0.59,0.213747160686663
+Input_DAP_kg_m3 > 0.49,0.18724711433462896
+Production_Level_Low <= -0.55,0.15517213135136293
+Season_Long Rains <= -0.63,-0.12241906010916564
+Operating_Shift_Morning <= -0.80,-0.1012885423124941
+-1.02 < Production_Level_Medium <= 0.99,-0.07080980965390259
+-0.63 < Input_Urea_kg_m3 <= 0.02,0.052558150232441606
+Season_Short Rains <= -0.48,0.03682372152341104
+-1.25 < Quarter <= -0.31,0.007224702772917676
+Output_Biogas_m3_m3 > 0.65,-0.006883152791236852

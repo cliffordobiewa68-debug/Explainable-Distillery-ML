@@ -1,0 +1,11 @@
+Feature,Weight
+Production_Level_Low <= -0.55,11.583992227517884
+Operating_Shift_Morning <= -0.80,7.301779050578715
+-1.02 < Production_Level_Medium <= 0.99,-4.347040072280108
+-0.58 < Operating_Shift_Night <= 1.71,3.612255451548373
+Raw_BOD_mgL > 0.67,-0.5200702241036594
+Season_Dry Season <= -0.59,0.47359208977167794
+-0.63 < Input_Urea_kg_m3 <= 0.02,0.39952411972995583
+-0.03 < Raw_pH <= 0.67,-0.3701907055919764
+Input_DAP_kg_m3 > 0.49,-0.34869578121996575
+Output_Biogas_m3_m3 > 0.65,0.23858508866495104

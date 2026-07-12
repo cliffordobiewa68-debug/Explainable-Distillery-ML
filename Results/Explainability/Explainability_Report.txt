@@ -1,0 +1,34 @@
+======================================================================
+EXPLAINABLE MACHINE LEARNING REPORT
+======================================================================
+
+PROJECT
+Explainable Machine Learning Model for Distillery Effluent Treatment and Management
+
+DATASET SUMMARY
+Records : 1000
+Features : 18
+Targets : 5
+
+TARGET VARIABLES
+ - Final_pH
+ - Final_COD_mgL
+ - Final_BOD_mgL
+ - Final_TDS_mgL
+ - Final_TSS_mgL
+
+EXPLAINABILITY METHODS IMPLEMENTED
+1. Built-in Feature Importance
+2. Permutation Feature Importance
+3. SHAP
+4. LIME
+5. Partial Dependence Plots
+6. Individual Conditional Expectation Plots
+
+OUTPUT DIRECTORIES
+Feature Importance : /Users/cliffordobiewa/Desktop/Kabarak Project/Results/Explainability/FeatureImportance
+Permutation        : /Users/cliffordobiewa/Desktop/Kabarak Project/Results/Explainability/Permutation
+SHAP               : /Users/cliffordobiewa/Desktop/Kabarak Project/Results/Explainability/SHAP
+LIME               : /Users/cliffordobiewa/Desktop/Kabarak Project/Results/Explainability/LIME
+PDP                : /Users/cliffordobiewa/Desktop/Kabarak Project/Results/Explainability/PDP
+ICE                : /Users/cliffordobiewa/Desktop/Kabarak Project/Results/Explainability/ICE
