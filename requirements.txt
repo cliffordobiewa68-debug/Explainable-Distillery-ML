@@ -5,7 +5,9 @@ scikit-learn
 joblib
 matplotlib
 plotly
+seaborn
 shap
 lime
 openpyxl
 scipy
+reportlab
